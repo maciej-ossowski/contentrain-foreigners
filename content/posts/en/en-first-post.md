@@ -1,7 +1,8 @@
 ---
 title: "[en] first post"
 slug: "en-first-post"
-categories: []
+categories:
+  - "first"
 ID: "a3ab0176-fb7c-4155-9e10-faa0df31f98b"
 tags: []
 description: ""
